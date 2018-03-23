@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:src="@drawable/album_2"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:scaleType="centerCrop"
+        android:id="@+id/iv_artist" />
+
+    <TextView
+        android:text="岳云鹏"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/me_text"
+        android:textColor="@color/default_bg"
+        android:id="@+id/tv_artist" />
+</FrameLayout>

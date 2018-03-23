@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.jzby.jzbysounderclient.fragment.PlayFragment">
+
+    <com.jzby.jzbysounderclient.view.CircleImageView
+        android:id="@+id/cv_big_player"
+        app:civ_border_color="#ccc"
+        app:civ_border_width="5dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/fruit"    />
+
+
+</LinearLayout>

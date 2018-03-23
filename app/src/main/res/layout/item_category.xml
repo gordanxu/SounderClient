@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <com.jzby.jzbysounderclient.view.CircleImageView
+        android:id="@+id/civ_category_cover"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/program_default" />
+
+    <TextView
+        android:id="@+id/tv_category_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text="音乐"
+        android:textColor="@color/me_text"
+        android:textSize="@dimen/text_size_14" />
+
+</LinearLayout>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_307900ef0374ee784d1393ae6ec9ff0571e8db70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.8.0_b718bded75d39c401f4095dc99ef159eccdd5657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\TingPhoneOpenSDK_5.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75860f3ae54549fd48859c4374a188ff78bbf0db">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\TingPhoneOpenSDK_5.6.4_9a77a1a7bef368bde5ce192567852513778bddec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_6f869e71509360527bdb3084efd637820fe0c474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_19b66eadb7d5d67a53708affe05a1ca561dadf36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_7821cb695dd1a609889d255f2b783f2167428ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\xutil3.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\xutil3.3.6_08821ddf9f48a564e209ffcb14b5b66d16fd7b7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_e9d6ab444118c2b621f603cedd2ced6974120b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="856360508d78fdb02ee50a5572ea8f1221738893">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_29d9b70e6ea74eea0ae9539215444b0557537acb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-26.0.0-alpha1_e058739708d486a4e804ed740537d0ce7c91443b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_0a5bde2d27fb8b4ba844aa4e97596bab703ff0d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.3.1_21aeb420c07486c47e02287e10e2e11699ebb2da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\XmDownload_1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="adec74f2c7b7d23f37e397b8ddaaf9d8c62c077c">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\XmDownload_1.6_f4b8dae3526fd33e19b3a11b77f812174ad1799c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\in.srain.cube-ultra-ptr-1.0.11_dafa5074de6fab172c4659e9971ff8132d67743c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9994959587b0d1e704972a5d10156e67208523f1">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c05a560faaf3d8ac0d1db5f3ab336b5ec6381ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_e62e842db96575b6d07f8395c1d3b7ab1f677d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_160266f18252b220f1b9c47941567d47ac8920c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Work\StudioSpace\MyApplication\app\libs\XmlyOAuth2SDK_V1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db5b0114745d1c4c7bf618bdf326549be77ca044">
+        <dex dex="E:\Work\StudioSpace\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\XmlyOAuth2SDK_V1.3_1410197b8e5299c157b958bba1d311dada3527a4\classes.dex" />
+    </item>
+
+</items>

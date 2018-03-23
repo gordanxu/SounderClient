@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. <item name="android:listDivider">@drawable/divider</item>-->
+        <item name="android:textSize">@dimen/text_size_14</item>
+    </style>
+
+
+    <style name="menu_style">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+    <style name="CustomSeekbarStyle" >
+        <item name="android:maxHeight">10dp</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@color/colorAccent</item>
+        <item name="android:progressDrawable">@drawable/icon_point_selected</item>
+        <item name="android:minHeight">10dp</item>
+        <item name="android:thumb">@null</item>
+    </style>
+
+
+   <style name="image_button">
+       <item name="android:focusable">true</item>
+       <item name="android:clickable">true</item>
+   </style>
+
+
+    <style name="my_button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/button_bg_unselect</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/text_size_18</item>
+        <item name="android:textColor">@color/default_bg</item>
+    </style>
+
+
+
+</resources>

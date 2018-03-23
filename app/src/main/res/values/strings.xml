@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">九秘</string>
+
+    <string name="menu_found">发现</string>
+    <string name="menu_skill">技能</string>
+    <string name="menu_favorite">喜欢</string>
+    <string name="menu_me">我的</string>
+
+    <string name="access_point">热点：</string>
+    <string name="password">密码：</string>
+
+    <string name="button_prev">上一步</string>
+    <string name="button_next">下一步</string>
+    <string name="button_connect">连接</string>
+
+    <string name="tips_permission">应用需要精确定位的权限,请先同意使用该权限!</string>
+
+
+</resources>

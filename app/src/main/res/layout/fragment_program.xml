@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:orientation="vertical"
+    tools:context="com.jzby.jzbysounderclient.fragment.ProgramFragment">
+
+
+    <ListView
+        android:id="@+id/lv_program"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:fadingEdge="none"
+        android:cacheColorHint="@android:color/transparent"
+        android:listSelector="@android:color/transparent"
+        android:divider="@color/line" >
+
+    </ListView>
+
+
+</LinearLayout>

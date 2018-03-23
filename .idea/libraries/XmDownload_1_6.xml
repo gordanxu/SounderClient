@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="XmDownload_1.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/XmDownload_1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

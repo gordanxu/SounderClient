@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:src="@drawable/album_default"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/iv_music" />
+
+    <TextView
+        android:text="说散就散"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_16"
+        android:textColor="@color/me_text"
+        android:id="@+id/tv_music_name" />
+
+    <TextView
+        android:text="庄心妍"
+        android:textSize="@dimen/text_size_12"
+        android:textColor="@color/me_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/tv_music_artist" />
+
+</LinearLayout>

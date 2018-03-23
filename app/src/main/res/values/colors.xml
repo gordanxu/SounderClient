@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="default_bg">#fff</color>
+
+    <color name="menu_selected">#0084FF</color>
+    <color name="menu_unselected">#000</color>
+
+    <color name="me_text">#636363</color>
+
+    <color name="button_unselect">#D4D4D4</color>
+    <color name="line">#EDEFEE</color>
+</resources>
